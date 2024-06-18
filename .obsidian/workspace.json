@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "59fc99820f8f1412",
+    "type": "split",
+    "children": [
+      {
+        "id": "0822c7d38bf1c67c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "244d671db54b1b56",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a903de34d3bc957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b85aaad9bf4726e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-18 19.12.51.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05f52980e8e11677",
+    "type": "split",
+    "children": [
+      {
+        "id": "061b1eff71e2f96f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81a2f0cf1ca9ccfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f72a00dbfc87eba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ae956992eef738e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ebd65e034b8b9b3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2299adc339976728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "437de379e0940574",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-18 19.12.51.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97b1bd8b91ccf3e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-18 19.12.51.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f36ef4660977929",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51419d695e15ff08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-18 19.12.51.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9c3d6298f555e0dc",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "7b85aaad9bf4726e",
+  "lastOpenFiles": [
+    "README.md",
+    "Excalidraw/Drawing 2024-06-18 19.12.51.excalidraw.md",
+    "Excalidraw",
+    "主页.md",
+    "PDF/竟成OS.pdf",
+    "PDF/计网/竟成计网.pdf",
+    "考研/计算机组成原理/数据的机器级表示与处理.md",
+    "考研/计算机组成原理/计算机系统概述.md",
+    "PDF/计组/计组袁春风.pdf",
+    "PDF/计组/计组袁春风习题.pdf",
+    "Excalidraw/Drawing 2024-05-31 08.20.38.excalidraw.md",
+    "未命名.canvas",
+    "PDF/计组/竟成计组.pdf",
+    "PDF/计网/计算机网络.pdf",
+    "Excalidraw/Drawing 2024-05-28 19.27.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-28 21.15.03.excalidraw.md",
+    "进位计数制及其数据之间的相互转换.md",
+    "Pasted image 20240529140806.png",
+    "Pasted image 20240529140303.png",
+    "未命名",
+    "PDF/计网/计算机网络（第7版）-谢希仁.pdf",
+    "PDF/计网",
+    "PDF.md",
+    "2024-05-26.md",
+    "测试文件.md",
+    "未命名 1.canvas",
+    "dairy/2024-05-27.md",
+    "dairy/2024-05-26.md",
+    "dairy/template.md",
+    "Wecome.md",
+    "未命名.md",
+    "school/machine-learn/demo.md",
+    "calendar/2024-05-26 开始使用obsidian记录.md",
+    "assert/wallhaven-85w9wo.jpg",
+    "assert/QQ截图20240525220816.png"
+  ]
+}

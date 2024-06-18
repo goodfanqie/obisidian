@@ -1,0 +1,5 @@
+{
+  "folder": "dairy",
+  "format": "YYYY-MM-DD",
+  "template": "dairy/template"
+}

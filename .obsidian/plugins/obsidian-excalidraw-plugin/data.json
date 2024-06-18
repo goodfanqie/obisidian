@@ -81,7 +81,7 @@
   "experimentalLivePreview": true,
   "fadeOutExcalidrawMarkup": false,
   "experimentalEnableFourthFont": true,
-  "experimantalFourthFont": "fonts/SourceHanSansSC-Regular.otf",
+  "experimantalFourthFont": "SourceHanSerifSC-Regular.otf",
   "addDummyTextElement": false,
   "fieldSuggester": true,
   "compatibilityMode": false,

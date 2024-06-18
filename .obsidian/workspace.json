@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "11d0c6e7fe07ea3a",
+        "id": "e7000c28acecf112",
         "type": "tabs",
         "children": [
           {
-            "id": "1370c6ef504006ef",
+            "id": "d581c999120947c8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md"
+                "file": "计算机组成原理/2.数据的表示与运算/考纲.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 308.5
   },
   "right": {
     "id": "ebd65e034b8b9b3d",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
+                "file": "计算机组成原理/2.数据的表示与运算/考纲.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
+                "file": "计算机组成原理/2.数据的表示与运算/考纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md"
+                "file": "计算机组成原理/2.数据的表示与运算/考纲.md"
               }
             }
           },
@@ -155,14 +157,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1370c6ef504006ef",
+  "active": "d581c999120947c8",
   "lastOpenFiles": [
-    "计算机组成原理/2.数据的表示与运算/考纲.md",
     "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
+    "计算机组成原理/2.数据的表示与运算/考纲.md",
     "主页.md",
+    "README.md",
     "Excalidraw",
     "Pasted image 20240618203958.png",
-    "README.md",
     "计算机组成原理/2.数据的表示与运算",
     "计算机组成原理/第一章/README.md",
     "Excalidraw/测试.md",

@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0822c7d38bf1c67c",
+        "id": "7b2e9581bdef7cb0",
         "type": "tabs",
         "children": [
           {
-            "id": "244d671db54b1b56",
+            "id": "1a0a7124ab168fc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9a903de34d3bc957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b85aaad9bf4726e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/测试.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/测试.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Excalidraw/测试.md"
               }
             }
           },
@@ -178,10 +155,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7b85aaad9bf4726e",
+  "active": "1a0a7124ab168fc6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-18 19.12.51.excalidraw.md",
     "README.md",
+    "Excalidraw/测试.md",
     "Excalidraw",
     "主页.md",
     "PDF/竟成OS.pdf",

@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "70516abc23762152",
+            "id": "b5aa19ed53fa8839",
             "type": "leaf",
             "state": {
-              "type": "excalidraw_cn",
+              "type": "excalidraw",
               "state": {
-                "file": "excalidraw 24-06-20 12.54.24.ex"
+                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excalidraw 24-06-20 12.54.24.ex",
+                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excalidraw 24-06-20 12.54.24.ex",
+                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excalidraw 24-06-20 12.54.24.ex"
+                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md"
               }
             }
           },
@@ -165,14 +165,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "homepage:Open homepage": false,
-      "excalidraw-cn:Create New Excalidraw File": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "70516abc23762152",
+  "active": "b5aa19ed53fa8839",
   "lastOpenFiles": [
-    "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
     "计算机组成原理/2.数据的表示与运算/考纲.md",
+    "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
     "excalidraw 24-06-20 12.54.24.ex",
+    "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
     "主页.md",
     "README.md",
     "Excalidraw",

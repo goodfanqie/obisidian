@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70516abc23762152",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw_cn",
+              "state": {
+                "file": "excalidraw 24-06-20 12.54.24.ex"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/2.数据的表示与运算/考纲.md",
+                "file": "excalidraw 24-06-20 12.54.24.ex",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/2.数据的表示与运算/考纲.md",
+                "file": "excalidraw 24-06-20 12.54.24.ex",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/2.数据的表示与运算/考纲.md"
+                "file": "excalidraw 24-06-20 12.54.24.ex"
               }
             }
           },
@@ -154,13 +165,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "excalidraw-cn:Create New Excalidraw File": false
     }
   },
-  "active": "d581c999120947c8",
+  "active": "70516abc23762152",
   "lastOpenFiles": [
     "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
     "计算机组成原理/2.数据的表示与运算/考纲.md",
+    "excalidraw 24-06-20 12.54.24.ex",
     "主页.md",
     "README.md",
     "Excalidraw",
@@ -177,7 +189,6 @@
     "考研/计算机组成原理/数据的机器级表示与处理.md",
     "考研/计算机组成原理/计算机系统概述.md",
     "PDF/计组/计组袁春风.pdf",
-    "PDF/计组/计组袁春风习题.pdf",
     "Excalidraw/Drawing 2024-05-31 08.20.38.excalidraw.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2024-05-28 19.27.14.excalidraw.md",

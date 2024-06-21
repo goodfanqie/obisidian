@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d581c999120947c8",
+            "id": "b5aa19ed53fa8839",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b5aa19ed53fa8839",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 484.5086555480957
   },
   "right": {
     "id": "ebd65e034b8b9b3d",
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
+                "file": "计算机组成原理/2.数据的表示与运算/考纲.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
+                "file": "计算机组成原理/2.数据的表示与运算/考纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md"
+                "file": "计算机组成原理/2.数据的表示与运算/考纲.md"
               }
             }
           },
@@ -171,12 +160,12 @@
   "active": "b5aa19ed53fa8839",
   "lastOpenFiles": [
     "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
-    "计算机组成原理/2.数据的表示与运算/考纲.md",
-    "Pasted image 20240620011223.png",
-    "README.md",
     "主页.md",
     "未命名.canvas",
+    "计算机组成原理/2.数据的表示与运算/考纲.md",
     "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
+    "Pasted image 20240620011223.png",
+    "README.md",
     "excalidraw 24-06-20 12.54.24.ex",
     "Excalidraw",
     "Pasted image 20240618203958.png",

@@ -23,14 +23,9 @@
             "id": "b5aa19ed53fa8839",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 223.20000000000002,
-                  "zoom": 0
-                }
+                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md"
               }
             }
           }
@@ -101,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240620011223.png",
+                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240620011223.png",
+                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240620011223.png"
+                "file": "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md"
               }
             }
           },
@@ -175,14 +170,14 @@
   },
   "active": "b5aa19ed53fa8839",
   "lastOpenFiles": [
-    "Pasted image 20240620011223.png",
-    "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
-    "未命名.canvas",
-    "计算机组成原理/2.数据的表示与运算/考纲.md",
-    "excalidraw 24-06-20 12.54.24.ex",
     "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
-    "主页.md",
+    "计算机组成原理/2.数据的表示与运算/考纲.md",
+    "Pasted image 20240620011223.png",
     "README.md",
+    "主页.md",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
+    "excalidraw 24-06-20 12.54.24.ex",
     "Excalidraw",
     "Pasted image 20240618203958.png",
     "计算机组成原理/2.数据的表示与运算",

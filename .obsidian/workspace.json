@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e7000c28acecf112",
+        "id": "c686738e69d12311",
         "type": "tabs",
         "children": [
           {
-            "id": "b5aa19ed53fa8839",
+            "id": "f53bb818a0d02bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5086555480957
+    "width": 200
   },
   "right": {
     "id": "ebd65e034b8b9b3d",
@@ -157,15 +157,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b5aa19ed53fa8839",
+  "active": "f53bb818a0d02bf0",
   "lastOpenFiles": [
     "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
+    "计算机组成原理/2.数据的表示与运算/考纲.md",
     "主页.md",
     "未命名.canvas",
-    "计算机组成原理/2.数据的表示与运算/考纲.md",
-    "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
-    "Pasted image 20240620011223.png",
     "README.md",
+    "Pasted image 20240620011223.png",
+    "高数",
+    "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
     "excalidraw 24-06-20 12.54.24.ex",
     "Excalidraw",
     "Pasted image 20240618203958.png",
@@ -180,7 +181,6 @@
     "PDF/计网/竟成计网.pdf",
     "考研/计算机组成原理/数据的机器级表示与处理.md",
     "考研/计算机组成原理/计算机系统概述.md",
-    "PDF/计组/计组袁春风.pdf",
     "Excalidraw/Drawing 2024-05-31 08.20.38.excalidraw.md",
     "Excalidraw/Drawing 2024-05-28 19.27.14.excalidraw.md",
     "Excalidraw/Drawing 2024-05-28 21.15.03.excalidraw.md",

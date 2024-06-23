@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aeb7bb8a7c13c14f",
+        "id": "21f67ec46a389f6f",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d1a7af5e51fdd1",
+            "id": "c24316097bd31dfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,15 +157,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a1d1a7af5e51fdd1",
+  "active": "c24316097bd31dfb",
   "lastOpenFiles": [
     "主页.md",
     "高数/不定积分计算公式.md",
-    "README.md",
     "未命名.canvas",
+    "README.md",
+    "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
     "未命名.md",
     "高数",
-    "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
     "计算机组成原理/2.数据的表示与运算/考纲.md",
     "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
     "Pasted image 20240620011223.png",

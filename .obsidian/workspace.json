@@ -11,11 +11,14 @@
             "id": "c24316097bd31dfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "高数/不定积分计算公式.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 413.3732460243217,
+                  "y": -2.5257362815350746,
+                  "zoom": -0.15227298308027515
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/不定积分计算公式.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/不定积分计算公式.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/不定积分计算公式.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -159,11 +162,11 @@
   },
   "active": "c24316097bd31dfb",
   "lastOpenFiles": [
-    "主页.md",
+    "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
     "高数/不定积分计算公式.md",
+    "主页.md",
     "未命名.canvas",
     "README.md",
-    "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
     "未命名.md",
     "高数",
     "计算机组成原理/2.数据的表示与运算/考纲.md",

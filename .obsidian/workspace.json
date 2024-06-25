@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de89a9d0c966a2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机体系结构复习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ebd65e034b8b9b3d",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "主页.md",
+                "file": "计算机体系结构复习.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "主页.md",
+                "file": "计算机体系结构复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "主页.md"
+                "file": "计算机体系结构复习.md"
               }
             }
           },
@@ -157,14 +171,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1f304bb7bef8dbf2",
+  "active": "de89a9d0c966a2fd",
   "lastOpenFiles": [
+    "主页.md",
+    "计算机体系结构复习.md",
     "高数/不定积分计算公式.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
-    "主页.md",
     "README.md",
-    "未命名.md",
     "高数",
     "计算机组成原理/2.数据的表示与运算/考纲.md",
     "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",

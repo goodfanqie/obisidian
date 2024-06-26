@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3fcc55e1791206e3",
+        "id": "e0232a6f71c5e023",
         "type": "tabs",
         "children": [
           {
-            "id": "85a994c2cd7eb4e0",
+            "id": "b25796dd8a643ed7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -31,16 +31,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81a2f0cf1ca9ccfd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "6f72a00dbfc87eba",
             "type": "leaf",
             "state": {
@@ -62,8 +52,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "3b8d27cff71c540e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,18 +156,22 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "81a2f0cf1ca9ccfd",
+  "active": "b25796dd8a643ed7",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "主页.md",
+    "Untitled Diagram.svg",
+    "计算机组成原理/2.数据的表示与运算/补码加减运算电路.md",
+    "Excalidraw/Drawing 2024-06-26 12.26.23.excalidraw.md",
+    "补码加减法运算电路.md",
+    "43428c9ee551e8e8fbb9ec31210cb2bb.png",
     "Pasted Image 20240626122239_829.png",
     "0a701fe8e85f9b4257fb54f651d51364.png",
     "计算机组成原理/2.数据的表示与运算/考纲.md",
-    "计算机组成原理/2.数据的表示与运算/补码加减运算电路.md",
     "计算机体系结构复习.md",
-    "主页.md",
     "README.md",
     "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
     "高数/不定积分计算公式.md",
-    "未命名.canvas",
     "高数",
     "Pasted image 20240620011223.png",
     "高数",
@@ -198,7 +203,6 @@
     "dairy/template.md",
     "Wecome.md",
     "school/machine-learn/demo.md",
-    "calendar/2024-05-26 开始使用obsidian记录.md",
     "assert/wallhaven-85w9wo.jpg",
     "assert/QQ截图20240525220816.png"
   ]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8db788d53b4e5f7",
+        "id": "3fcc55e1791206e3",
         "type": "tabs",
         "children": [
           {
-            "id": "1f304bb7bef8dbf2",
+            "id": "85a994c2cd7eb4e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "de89a9d0c966a2fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机体系结构复习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构复习.md",
+                "file": "主页.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构复习.md",
+                "file": "主页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构复习.md"
+                "file": "主页.md"
               }
             }
           },
@@ -171,11 +158,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "de89a9d0c966a2fd",
+  "active": "85a994c2cd7eb4e0",
   "lastOpenFiles": [
+    "计算机体系结构复习.md",
     "0a701fe8e85f9b4257fb54f651d51364.png",
     "主页.md",
-    "计算机体系结构复习.md",
     "高数/不定积分计算公式.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e0232a6f71c5e023",
+        "id": "c5fab91aa8c53030",
         "type": "tabs",
         "children": [
           {
-            "id": "b25796dd8a643ed7",
+            "id": "6e8ccf1a71b53621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构复习.md",
+                "file": "主页.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab73ef1fc6669cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "机器学习复习.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构复习.md",
+                "file": "机器学习复习.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构复习.md",
+                "file": "机器学习复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构复习.md"
+                "file": "机器学习复习.md"
               }
             }
           },
@@ -158,13 +171,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b25796dd8a643ed7",
+  "active": "ab73ef1fc6669cbf",
   "lastOpenFiles": [
+    "主页.md",
+    "机器学习复习.md",
     "补码加减法运算电路.md",
     "计算机组成原理/2.数据的表示与运算/考纲.md",
     "计算机组成原理/2.数据的表示与运算/补码加减运算电路.md",
     "高数/不定积分计算公式.md",
-    "主页.md",
     "未命名.canvas",
     "Untitled Diagram.svg",
     "Excalidraw/Drawing 2024-06-26 12.26.23.excalidraw.md",

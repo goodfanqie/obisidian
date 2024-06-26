@@ -11,9 +11,9 @@
             "id": "85a994c2cd7eb4e0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "0a701fe8e85f9b4257fb54f651d51364.png"
+                "file": "计算机组成原理/2.数据的表示与运算/补码加减运算电路.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0a701fe8e85f9b4257fb54f651d51364.png",
+                "file": "计算机组成原理/2.数据的表示与运算/补码加减运算电路.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0a701fe8e85f9b4257fb54f651d51364.png",
+                "file": "计算机组成原理/2.数据的表示与运算/补码加减运算电路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0a701fe8e85f9b4257fb54f651d51364.png"
+                "file": "计算机组成原理/2.数据的表示与运算/补码加减运算电路.md"
               }
             }
           },
@@ -157,13 +157,14 @@
   },
   "active": "81a2f0cf1ca9ccfd",
   "lastOpenFiles": [
+    "Pasted Image 20240626122239_829.png",
+    "0a701fe8e85f9b4257fb54f651d51364.png",
     "计算机组成原理/2.数据的表示与运算/考纲.md",
-    "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
+    "计算机组成原理/2.数据的表示与运算/补码加减运算电路.md",
     "计算机体系结构复习.md",
     "主页.md",
     "README.md",
     "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
-    "0a701fe8e85f9b4257fb54f651d51364.png",
     "高数/不定积分计算公式.md",
     "未命名.canvas",
     "高数",

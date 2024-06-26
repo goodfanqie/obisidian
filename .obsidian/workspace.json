@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "ebd65e034b8b9b3d",
@@ -173,6 +174,8 @@
   },
   "active": "ab73ef1fc6669cbf",
   "lastOpenFiles": [
+    "39e8b983b0736d1fed0f70ac954f4232.png",
+    "05cd395c0674f3a15cf969dbe35030f3.png",
     "主页.md",
     "机器学习复习.md",
     "补码加减法运算电路.md",
@@ -218,8 +221,6 @@
     "dairy/2024-05-26.md",
     "dairy/template.md",
     "Wecome.md",
-    "school/machine-learn/demo.md",
-    "assert/wallhaven-85w9wo.jpg",
-    "assert/QQ截图20240525220816.png"
+    "assert/wallhaven-85w9wo.jpg"
   ]
 }

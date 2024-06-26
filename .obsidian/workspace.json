@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/不定积分计算公式.md",
+                "file": "计算机体系结构复习.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/不定积分计算公式.md",
+                "file": "计算机体系结构复习.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/不定积分计算公式.md",
+                "file": "计算机体系结构复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/不定积分计算公式.md"
+                "file": "计算机体系结构复习.md"
               }
             }
           },
@@ -160,20 +160,20 @@
   },
   "active": "b25796dd8a643ed7",
   "lastOpenFiles": [
-    "主页.md",
+    "补码加减法运算电路.md",
+    "计算机组成原理/2.数据的表示与运算/考纲.md",
     "计算机组成原理/2.数据的表示与运算/补码加减运算电路.md",
+    "高数/不定积分计算公式.md",
+    "主页.md",
     "未命名.canvas",
     "Untitled Diagram.svg",
     "Excalidraw/Drawing 2024-06-26 12.26.23.excalidraw.md",
-    "补码加减法运算电路.md",
     "43428c9ee551e8e8fbb9ec31210cb2bb.png",
     "Pasted Image 20240626122239_829.png",
     "0a701fe8e85f9b4257fb54f651d51364.png",
-    "计算机组成原理/2.数据的表示与运算/考纲.md",
     "计算机体系结构复习.md",
     "README.md",
     "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
-    "高数/不定积分计算公式.md",
     "高数",
     "Pasted image 20240620011223.png",
     "高数",

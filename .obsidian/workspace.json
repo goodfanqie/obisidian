@@ -11,9 +11,11 @@
             "id": "85a994c2cd7eb4e0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0a701fe8e85f9b4257fb54f651d51364.png"
+                "file": "主页.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 301.5
   },
   "right": {
     "id": "ebd65e034b8b9b3d",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0a701fe8e85f9b4257fb54f651d51364.png",
+                "file": "主页.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0a701fe8e85f9b4257fb54f651d51364.png",
+                "file": "主页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0a701fe8e85f9b4257fb54f651d51364.png"
+                "file": "主页.md"
               }
             }
           },
@@ -157,16 +159,16 @@
   },
   "active": "85a994c2cd7eb4e0",
   "lastOpenFiles": [
-    "主页.md",
-    "计算机体系结构复习.md",
-    "0a701fe8e85f9b4257fb54f651d51364.png",
-    "高数/不定积分计算公式.md",
-    "未命名.canvas",
-    "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
     "README.md",
-    "高数",
+    "主页.md",
     "计算机组成原理/2.数据的表示与运算/考纲.md",
     "计算机组成原理/2.数据的表示与运算/定点数编码的表示.md",
+    "Excalidraw/Drawing 2024-06-20 01.03.11.excalidraw.md",
+    "0a701fe8e85f9b4257fb54f651d51364.png",
+    "计算机体系结构复习.md",
+    "高数/不定积分计算公式.md",
+    "未命名.canvas",
+    "高数",
     "Pasted image 20240620011223.png",
     "高数",
     "excalidraw 24-06-20 12.54.24.ex",

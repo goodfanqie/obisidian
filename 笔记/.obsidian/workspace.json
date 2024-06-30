@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "主页.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "主页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "主页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md"
+                "file": "主页.md"
               }
             }
           }
@@ -148,10 +148,16 @@
   },
   "active": "1a65e75b7ce5f812",
   "lastOpenFiles": [
-    "408/未命名",
-    "408/计算机网络",
+    "高数/函数 极限 连续.md",
+    "高数/函数 极限 连续",
+    "主页.md",
+    "英语",
+    "数学/未命名",
+    "数据结构",
+    "操作系统",
+    "计算机组成原理",
+    "计算机网络",
     "408",
-    "数学",
-    "欢迎.md"
+    "高数"
   ]
 }
